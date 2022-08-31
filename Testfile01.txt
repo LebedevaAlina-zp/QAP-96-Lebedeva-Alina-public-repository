@@ -1,2 +1,1 @@
-01 Practicing in CHANGE STRING Git Gui
-^-|-^
+01 Practicing in using Git Gui
