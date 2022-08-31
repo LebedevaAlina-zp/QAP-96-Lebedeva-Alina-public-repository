@@ -1,2 +1,2 @@
-01 Practicing in TEST 
-  Git Gui
+01 Practicing in CHANGE STRING Git Gui
+^-|-^
